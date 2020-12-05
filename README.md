@@ -5,7 +5,6 @@ They can search farmers and laboursif they are available(Notify)
 They get work his/her skill.and they can show their availablity status on the portal.
 
 
-
 .json files
 this links will run in any andriod mobile phones and pc's.
 open this in postman app..
